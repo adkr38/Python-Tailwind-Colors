@@ -1,1 +1,1 @@
-##Utility Python class & constants for using tailwindcss palletes
+## Utility Python class & constants for using tailwindcss palletes
