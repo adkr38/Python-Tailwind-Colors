@@ -2,7 +2,7 @@
 
 ```python
 NEUTRAL = Palette(
-    name="Neutral",
+    name="Neutral"
     steps=[
         "#fafafa",
         "#f5f5f5",
@@ -13,6 +13,6 @@ NEUTRAL = Palette(
         "#525252",
         "#404040",
         "#262626",
-        "#171717",
-    ],
+        "#171717"
+    ]
 )
