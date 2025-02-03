@@ -1,4 +1,4 @@
-## Utility Python class & constants for using tailwindcss palletes
+## Utility Python constants for using tailwindcss palletes
 
 ```python
 NEUTRAL = Palette(
